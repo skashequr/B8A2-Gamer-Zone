@@ -27,11 +27,16 @@
         margin-top: 80px;
         margin-right: 300px;
     }
+    .img-1{
+        width: 400px;
+    }
+    .img-3{
+        width:350px
+    }
+    
     .immg{
         width: 100%;
-        width: 100%;
-        margin-right: 400px;
-       
+        margin-bottom: 250px;
     }
     .box-1{
         margin-left: 300px;
@@ -42,10 +47,14 @@
     .part-3{
         flex-direction: column;
         margin-top: 20px;
-        margin-bottom: 350px;
+        margin-bottom: 100px;
         justify-content: center;
         align-items: center;
 
+    }
+    .part-3-cont,.we-are-gammer{
+        text-align: center;
+        margin-top: 0px;
     }
 
     /* PArt --4 --*/
