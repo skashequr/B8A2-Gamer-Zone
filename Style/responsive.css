@@ -5,7 +5,7 @@
         margin-left: px;
         width: auto;
         height: auto;
-        margin-top: 103px;
+
     }
     .cardd{
         flex-direction: column;
@@ -43,7 +43,12 @@
         width: 400px;
     }
     .img-3{
-        width:350px
+        width:250px;
+        margin-right:20px;
+    }
+    .img-4{
+        width: 150px ;
+        
     }
     
     .immg{
@@ -89,13 +94,12 @@
     }
     .foot-nab{
         flex-wrap: wrap;
-        margin: 40px 100px;
     }
     .icon-1{
         margin: auto;
     }
     .trems{
-        justify-content: space-between;
+        justify-content: center;
         flex-wrap: wrap;
       
     }
@@ -104,6 +108,12 @@
     }
     .last-p{
         gap:0px;
+    }
+    .icon-1{
+        gap: 35px;
+    }
+    .im-1{
+        width:50px;
     }
    
 }
