@@ -21,11 +21,23 @@
     .nab-2{
         flex-direction: column;
     }
-    .part-2{
+    .part-2-1{
         flex-direction: column;
         align-items: center;
         margin-top: 80px;
         margin-right: 300px;
+        
+    }
+    .box-1-title{
+        
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    
+    }
+    .goat{
+        font-size: 80px;
+        text-align: center;
     }
     .img-1{
         width: 400px;
@@ -41,9 +53,7 @@
     .box-1{
         margin-left: 300px;
     }
-    .box-1-text{
-        margin-left: 280px;
-    }
+    
     .part-3{
         flex-direction: column;
         margin-top: 20px;
@@ -51,6 +61,16 @@
         justify-content: center;
         align-items: center;
 
+    }
+    .part-3-h{
+        font-size: 30px;
+    }
+    .part-3-p{
+        text-align: center;
+        font-size: 13px;
+    }
+    .part-5-h{
+        text-align: center;
     }
     .part-3-cont,.we-are-gammer{
         text-align: center;

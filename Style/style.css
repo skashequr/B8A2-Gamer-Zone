@@ -53,6 +53,7 @@ nav{
     justify-content: center;
     align-items: center;
     gap:80px;
+    background-image: url(../images/SVG/background.svg);
 }
 .immg{
     width: auto;
@@ -66,10 +67,12 @@ text-align: center;
 font-size: 48px;
 font-weight: 600;
 text-transform: uppercase;
+margin: 0px;
+padding: 0px;
 }
 .goat{
     text-align: center;
-font-size: 95px;
+font-size: 60px;
 font-style: normal;
 font-weight: 800;
 text-transform: uppercase;
@@ -190,11 +193,6 @@ background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 16
 
 }
 
-.img-1{
-    
- 
-
-}
 .img-2{
    
     position: relative;
@@ -210,6 +208,7 @@ background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 16
     justify-content: center;
     margin-top: 50px;
 }
+
 .part-container{
     padding-bottom: 350px;
 }
