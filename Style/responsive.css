@@ -97,6 +97,9 @@
         justify-content: center;
         
     }
+    nav{
+        flex-direction: column;
+    }
     .box-1{
         height: auto;
         width: auto;
